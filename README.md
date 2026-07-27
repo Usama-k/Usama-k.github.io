@@ -43,6 +43,7 @@ This project is 100% ready to be deployed to GitHub Pages out-of-the-box.
 RioRash/
 │
 ├── index.html       # The main entry point and HTML structure
+├── privacy-policy.html # Privacy policy page for Google Play compliance
 ├── style.css        # All CSS styling, animations, and variables
 ├── script.js        # JavaScript logic for interactivity and cursor
 └── README.md        # Project documentation
